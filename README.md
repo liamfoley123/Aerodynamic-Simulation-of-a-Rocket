@@ -1,6 +1,7 @@
 # Aerodynamic-Simulation-of-a-Rocket
 
 Written by Liam Foley, as part of a Final Year Masters Undergraduate Degree Project at the University of Edinburgh, 2021
+
 Contact: 
 
   s1605969@ed.ac.uk
