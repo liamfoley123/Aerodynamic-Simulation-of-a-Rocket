@@ -2,7 +2,9 @@
 
 Written by Liam Foley, as part of a Final Year Masters Undergraduate Degree Project at the University of Edinburgh, 2021
 Contact: 
+
   s1605969@ed.ac.uk
+  
   liam.foley@salachy.co.uk
 
 Project: DESIGN AND SIMULATION OF PASSIVE CONTROL SURFACES ON A SUPERSONIC SOUNDING ROCKET 
